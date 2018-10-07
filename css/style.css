@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Shadows+Into+Light');
+
+
+body {
+  background-color: #222;
+  background-image: url("../images/texture-office.png");
+  font-family: 'Indie Flower', cursive;
+}
+
+
+h1,h2{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+button{
+ background-color: blue;
+ color: white;
+ border-radius: 15px;
+ font-size: 20px;
+ padding:10px;
+ border: black;
+
+}
+
+button:hover{
+ opacity: 0.9;
+ background-color: black;
+ color: red;
+}
+
+
+p{
+ text-align: center;
+}
+
+h1{
+ font-size: 80px;
+ color: blue;
+ font-family: futura;
+ margin-bottom: 10px;
+ text-align: center;
+
+}
+
+.card-text {
+  text-align: left;
+  font-size: 50px;
+}
+
+.card-title {
+  text-align: left;
+  font-size: 50px;
+}
+
+
+
+
+
+.text-md-center {
+ color: blue;
+}
+
+#contact{
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+
+p {
+font-family: 'Shadows Into Light', cursive; }
